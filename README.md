@@ -1,7 +1,6 @@
 # Three.js Shader Art 1
 
-A plain Three.js workspace sandbox. Intended for quick sketching with Three.js
-A Three.js shader art experiment, inspired and tutored by [Kishimisu](https://www.youtube.com/@kishimisu)
+A Three.js shader art experiment, inspired by [Kishimisu on Shadertoy](https://www.shadertoy.com/user/kishimisu)
 
 ## Table of Contents
 
